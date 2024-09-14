@@ -104,7 +104,7 @@ body {
         border-bottom: 2px solid #1e90ff;
     }
     .brand {
-        font-size: 18px;
+        font-size: 12px;
         margin-right: 10px;
     }
     .menu ul {
@@ -130,7 +130,7 @@ body {
     }
     #body {
         padding: 10px;
-        margin-top: 70px;
+        margin-top: 200px;
     }
     .content {
         padding: 10px;
